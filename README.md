@@ -1,6 +1,6 @@
-                                    👋 Hi, I’m Mehmet Said
+- - - - - - -   ### 👋 Hi, I’m Mehmet Said
 ---
-                             A Quality Assurance Tester from Bursa/Turkey
+- - - - * *  ####              A Quality Assurance Tester from Bursa/Turkey
 - 👀 I’m interested in automation, manual and API testing
 - 🌱 I’m trying to improve myself everyday
 - 💞️ I’m looking for an environment to contribute, collaborate and improve myself
@@ -24,7 +24,5 @@ You can click the Preview link to take a look at your changes.
 [![My Skills](https://skillicons.dev/icons?i=eclipse,postgres,github,idea,vscode,&theme=light)](https://skillicons.dev)
 
 </p>
-
-
 
  
