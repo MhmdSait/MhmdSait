@@ -1,6 +1,9 @@
-- - - - - - -   ### 👋 Hi, I’m Mehmet Said
----
-- - - - * *  ####              A Quality Assurance Tester from Bursa/Turkey
+<h1 align="center"> 👋 Hi, I’m Mehmet Said
+
+<h3 align="center">            A Quality Assurance Tester from Bursa/Turkey
+
+--
+
 - 👀 I’m interested in automation, manual and API testing
 - 🌱 I’m trying to improve myself everyday
 - 💞️ I’m looking for an environment to contribute, collaborate and improve myself
