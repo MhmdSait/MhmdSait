@@ -24,13 +24,9 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.api.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3m3cQd-M2Gq5QXSik9qJSHGDBW3MvBoWFyA&usqp=CAU" alt="sql" width="35" height="35"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> </a>
 <a href="https://testng.org/doc/"  target="blank"> <img src="https://user-images.githubusercontent.com/108357127/196739997-83d081b4-bc95-49c1-a8d3-1a2b516100ba.png" alt="java" width="35" height="35"/></a>
-<a href="https://cucumber.io"  target="blank"> <img src="https://user-images.githubusercontent.com/108357127/216178246-912feebd-04b6-46e6-9911-49e872a59b69.png" alt="cucumber" width="35" height="35"/></a> 
- 
-
- 
+<a href="https://cucumber.io"  target="blank"> <img src="https://user-images.githubusercontent.com/108357127/216178246-912feebd-04b6-46e6-9911-49e872a59b69.png" alt="cucumber" width="35" height="35"/></a>  
 [![My Skills](https://skillicons.dev/icons?i=eclipse,postgres,github,idea,vscode,&theme=light)](https://skillicons.dev)
 
- 
  
 </p>
 
